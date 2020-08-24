@@ -1,0 +1,58 @@
+
+Creatures
+=================
+soul warden 1
+battlegate mimic 1
+boros swiftblade 2
+cerodon yearling 1
+kor sanctifiers 1
+boros guildmage 1
+duergar hedge-mage 1
+hearthfire hobgoblin 1
+flametongue kavu 1
+keldon champion 1
+manacing orge 1
+balefire liege 1
+bull cerodon 1
+rorix bladewing 1
+razia boros archangel 1
+
+land 
+======
+mountain 9
+plain 9
+boros garrison 2
+sunhome fortress of the legion 2
+terramorphic expanse 2
+
+enchantment
+==============
+oblivion ring 1
+prison term 1
+glory of warfare 1
+furnace of wrath 1
+instant
+=============
+double cleave 1
+lightning helix 2
+orims thinder 1
+congregate 1
+captains maneuver 1
+order / chaos 1
+
+sorcery
+=============
+reckless charge 1
+arc lightning 1
+cone of flame 1
+akromas vengence 1
+rolling thinder 1
+goblin offencive 1
+insurrection 1
+
+artifact
+============
+relic of progenitus 1
+bobos signet 1
+
+deck builder: Ryan 'vapour' Niksch

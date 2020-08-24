@@ -1,0 +1,33 @@
+
+Creatures
+=================
+tangle asp 4
+zausa lost but seeking 2
+fyndhorn elder 3
+rhox 2
+traproot kami 1
+
+land 
+======
+forest 24
+
+enchantment
+==============
+living lands 4
+
+instant
+=============
+fog 2
+
+sorcery
+=============
+kodamas reach 2
+summer bloom 2
+journey of discovery 1
+rampant growth 2
+overrun 4
+mwonvuli acid-moss 3
+
+artifact
+============
+gauntlet of power 4

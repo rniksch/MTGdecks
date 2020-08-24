@@ -1,0 +1,40 @@
+
+Creatures
+=================
+wood elves 2
+priest of titania 4
+wellwisher 3
+elvish soultiller 3
+llanowar elves 3
+wirewood elf 4
+wirewood channeler 4
+llanowar elite 4
+elvish vanguard 4
+elvish champion 4
+heedless one 4
+essence warden 3
+ 
+
+land 
+======
+forest 24
+
+enchantment
+==============
+call of the wild 4
+elvish guidence 3
+
+
+instant
+=============
+wirewood pride 2
+
+sorcery
+=============
+Gaeas blessing 4
+
+artifact
+============
+coat of arms 2
+
+deck builder: Brenton 'Zakeroph' Mcphee

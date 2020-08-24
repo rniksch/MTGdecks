@@ -1,0 +1,42 @@
+
+Creatures
+=================
+skyknight legionnaire 4
+courier hawk 4
+agrus kos wojek veteran 2
+thundersong trumpeter 3
+sunhome ebforcer 2
+boros swift blade 4
+flame-kin zealot 3
+
+
+
+land 
+======
+plains 7
+mountains 8
+boros garrison 3
+sunhome fortress of the legion 2
+
+enchantment
+==============
+
+instant
+=============
+shock 3
+bathe in light 2
+parallectric feedback 2
+hidetsugus second rite 1
+lightning helix 4
+dvouring light 4
+
+
+sorcery
+=============
+
+
+artifact
+============
+sunforger 2
+
+deck builder: Eugene 'Acid Cold'

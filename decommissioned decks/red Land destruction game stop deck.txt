@@ -1,0 +1,38 @@
+
+Creatures
+=================
+goblin gardener 4
+
+
+land 
+======
+mountains 2
+urzas mine 2
+urzas tower 2
+urzas power plant 2
+
+enchantment
+==============
+price of glory 4
+smoke 3
+wars toll 1
+burning sands 4
+aether flash 4
+
+instant
+=============
+
+
+sorcery
+=============
+blaze 4
+fireball 2
+breaking point 4
+wildfire 2
+
+
+artifact
+============
+defence grid 4
+dingus egg 4
+mana web 4

@@ -1,0 +1,57 @@
+
+Creatures
+=================
+bog  witch 1
+avatar of discord 1
+kaervek the merciless 1
+twisted abomination 2
+avatar of woe 1
+corpse connoisseur 1
+ectractor demon 1
+infectious horror 2
+cemetery reaper 1
+unborg syphon mage 1
+shriekmaw 1
+vampiric dragon 1
+scion if darkness 1
+rakdos guildmage 1
+freassembling skeleton 1
+dregscape zombie 1
+festering goblin 1
+artisan of kozilek 1
+
+
+land 
+======
+swamp  13
+mountain 7
+barren moor 2 
+rakdos carnarium 2 
+
+enchantment
+==============
+zombie infestation 1
+
+instant
+=============
+inferno trap 1
+bituminous blast 1
+terminate 2
+makeshift mannequin 1
+
+sorcery
+=============
+sign in blood 2
+infest 1
+torrent of souls 1
+incremntal blight 1
+zombify 1
+beacon of unrest 1
+reanimate 1
+
+artifact
+============
+rakdos signet 2
+
+
+deck builder: Ryan 'vapour' Niksch

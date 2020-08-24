@@ -1,0 +1,47 @@
+
+Creatures
+=================
+skyknight legionnaire 3
+blinding angel 2
+avenging angel 1
+serra angel 3
+firemane angel 2
+courier hawk 2
+razia boros archangel 2
+luminous angel 1
+leonin skyhunter 2
+angel of mercy 4
+serra avenger 2
+
+
+land 
+======
+plains 12
+mountains 10
+
+enchantment
+==============
+smoke 3
+worship 1
+karmic justice 1
+serras blessing 2
+fervor 1
+proper burial 1
+faiths fetters 2
+karma 1
+
+instant
+=============
+beacon of immortality 3
+
+sorcery
+=============
+
+artifact
+============
+loxdon warhammer 2
+aether vial 2
+angels feather 1
+
+
+deck builder: Ryan 'vapour' Niksch

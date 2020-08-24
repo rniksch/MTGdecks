@@ -1,0 +1,37 @@
+
+Creatures
+=================
+escape artist 4
+prodigal sorceror 3
+covert operative 2
+shimmering glaskite 2
+
+land 
+======
+islands 24
+
+
+enchantment
+==============
+planeswalkers mischief 1
+counterbalance 4 (missing 2)
+soul barrier 3
+propaganda 2
+aether storm 1
+
+
+instant
+=============
+time stop 2
+counterspell 4
+hinder 4
+power sink 3
+
+sorcery
+=============
+
+artifact
+============
+jesters scepter 4
+senseis divining top 4
+teferis puzzle box 2

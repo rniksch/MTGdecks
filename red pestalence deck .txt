@@ -1,0 +1,40 @@
+
+Creatures
+=================
+stuff doll 4 
+keldon marauders 4
+martyr of ashes 4
+sparkmage apprentice 4
+prodigal pyromancer 4
+viashino fangtail 2
+blazing blade aashari 2
+
+
+land 
+======
+mountains 22
+
+
+enchantment
+==============
+pyrohemia 4 
+seal of fire 4
+fatal attraction 4
+
+
+instant
+=============
+dead / gone 3
+pyromatics 2
+
+
+sorcery
+=============
+shivan meteor 1 
+volcanic hammer 3
+
+
+artifact
+============
+
+deck builder: Ryan 'vapour' Niksch

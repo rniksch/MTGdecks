@@ -1,0 +1,41 @@
+
+Creatures
+=================
+repentant vampire 1
+guul draz vampire 3
+gatekeeper of malakir 1
+malakir bloodwitch 1
+sengir vampire 2
+skeletal vampire 3
+vampire nocturness 4
+child of night 2
+vampire nighthawk 4
+blood seeker 3
+vampire aristocrat 2
+vampire lacerator 3
+pulse tracker 4 (missing 2)
+land 
+======
+swamp 16
+piranha marsh 4
+
+enchantment
+==============
+
+instant
+=============
+terror 2
+
+sorcery
+=============
+consume spirit 2
+feast of blood 2
+blood tribute 1
+diabolic tutor 2 
+grim discovery 1
+
+artifact
+============
+aether vile 3
+
+deck builder: Ryan 'vapour' Niksch

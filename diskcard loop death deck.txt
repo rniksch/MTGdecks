@@ -1,0 +1,43 @@
+
+Creatures
+=================
+abyssal specter 2
+thunderscape battlemage 2
+kaervek the merciless 1
+ravenous rats 2
+stronghold rats 2
+
+land 
+======
+mountain  12
+swamp 12
+
+enchantment
+==============
+honden of infinate rage 2
+honden of nights reach 2
+megrim 4
+bottem less pits 4
+pain magnification 4
+furnace of wrath 4
+
+
+instant
+=============
+yamabushis flame 3
+
+sorcery
+=============
+mind peel 2
+distress 2
+cry of contrition 2
+sizzle 2
+mind rot 3
+small pox 1
+
+
+artifact
+============
+howling mine 2
+
+deck builder: Ryan 'vapour' Niksch

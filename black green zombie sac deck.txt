@@ -1,0 +1,43 @@
+
+Creatures
+=================
+lord of the undead 1
+traproot kami 2
+looming shade 1
+llanowar dead 3
+dross golem 1
+grave digger 3
+mourning thrull 3
+sakura-tribe elder 2
+skeletal vampire 4
+vulturous zombie 4
+gutless ghoul 2
+
+
+
+land 
+======
+swamps 13
+forest 10
+
+enchantment
+==============
+doubling season 1
+grave pact 4
+blessing of leeches 2
+
+
+instant
+=============
+putrefy 2
+
+sorcery
+=============
+kodamas reach 2
+
+
+artifact
+============
+skull catapult 2
+
+deck builder: Ryan 'vapour' Niksch

@@ -1,0 +1,55 @@
+
+Creatures
+=================
+festering goblin 2
+dregscape zombie 1
+rotting rats 1
+shepherd of rot 1
+withered wretch 1 
+cadaverous knight 2
+phyrexian ghoul 2
+death baron 1
+gravedigger 1
+souless one 1
+undead warchief 2
+corpse harvester 1
+noxious ghoul 1
+ascendant evincar 1
+nefashu 1
+helldozer 1
+
+
+land 
+======
+swamp 23
+leechridden swamp 2
+cabal coffers 1
+
+
+enchantment
+==============
+phyrexian arena 1
+gravepact 1
+
+instant
+=============
+dark ritual 2
+hideous end 1
+crual revival 1
+
+sorcery
+=============
+innocent blood 1
+syphon soul 1
+beseech the queen 1
+syphone mind 1
+beacon of unrest 1
+incremental blight 1
+consume spirit 1
+profane command 1
+
+artifact
+============
+
+
+deck builder: Ryan 'vapour' Niksch

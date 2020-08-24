@@ -1,0 +1,55 @@
+
+Creatures
+=================
+suntail hawk 1 
+escape artist  2
+angelic wall 1
+phanton warrior 1
+iredescent angel 2
+mahamoti djinn 1
+cromeshell crab 1
+sage owl 1
+sustainer of the realm 1
+luitenant kirtar 2
+aven flock 2
+deftblade elite 1
+wind drake 2
+voice of all 1
+nova cleric 1
+longbow archer 1
+
+
+land 
+======
+plains 9
+island 8
+seafloor debris 3
+lonely sandbar 2
+nomad stadium 1
+secluded steppe 1
+abandoned outpost 3
+
+enchantment
+==============
+lost in thought 2
+pacifism 2
+
+instant
+=============
+counter spell 1
+fervent denial 3 
+life burst 4
+romove soul 2
+second thoughts 3
+discombobulate 1
+
+sorcery
+=============
+kirtars wrath 1
+ancestral tribute 1
+
+artifact
+============
+marbal diamond 2
+
+deck builder: unknown

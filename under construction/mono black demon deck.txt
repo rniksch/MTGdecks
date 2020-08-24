@@ -1,0 +1,34 @@
+
+Creatures
+=================
+reiver demon 3 (missing 1)
+grim claw bats 4
+havoc demon 3 (missing 1)
+grinnig demon 4 
+
+
+land 
+======
+swamp 22
+
+enchantment
+==============
+
+
+instant
+=============
+
+sorcery
+=============
+barter in blood 4
+life drain 4
+vicious hunger 4
+essence drain 4
+promise of power 4
+
+
+artifact
+============
+extraplanar lens 4 (missing 4)
+
+deck builder: Ryan 'vapour' Niksch

@@ -1,0 +1,59 @@
+
+Creatures
+=================
+flamekin harbringer 2
+smokebraider 2
+bogardan firefiend 1
+rockslide elemental 2
+tauren mauler 1
+fertilid 1
+cinder elemental 1
+briarhorn 1
+forggotten anchient 1
+rumbling slum 1
+silverglade elemental 1
+bogardan rager 1
+tornado elemental 1
+living hive 1
+verdant force 1
+ivy elemental 1
+
+
+land 
+======
+mountain 9 
+forest 9
+gruul turf 2
+shivan oasis 2
+terramorphic exdpanse 2
+
+enchantment
+==============
+fertile ground 1
+fires of valimaya 1
+
+instant
+=============
+branching bolt 1
+tribal unity 1
+
+sorcery
+=============
+search for tomorrow 1
+browbeat 1
+hull breach 1
+rampant growth 1
+beast hunt 1
+explosive vegetation 1
+relentless assault 1
+pyrotechnics 1
+blaze 1
+savage twister 1
+assault / battery 1
+
+artifact
+============
+mask of memory 1
+mage slayer 1
+
+deck builder: Ryan 'vapour' Niksch

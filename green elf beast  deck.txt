@@ -1,0 +1,37 @@
+
+Creatures
+=================
+wirewood elf 3
+krosan drover 4
+wood elves 3
+llanowar elves 3
+scaled wurm 2
+craw wurm 2
+siege wurm 4
+tyrranax 3
+fangren hunter 3 
+fangren pathcutter 2
+trained armodon 2
+moss kami 3
+giant spider 3
+tangle asp 2
+
+land 
+======
+forest 22
+
+enchantment
+==============
+
+instant
+=============
+naturalize 2
+
+sorcery
+=============
+rampant growth 3
+
+artifact
+============
+
+deck builder: Ryan 'vapour' Niksch

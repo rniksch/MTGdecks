@@ -1,0 +1,44 @@
+
+Creatures
+=================
+traproot kami 4
+thief of hope 4
+dripping tongue zubra 4
+promissed kannushi 2
+braidknit kami 1
+body of jukiai 1
+venerable kumo 3
+elder pine of jukai 4
+bile urchin 4
+ashen skin zubra 1
+petalmane baku 2
+loam dweller 1
+skullmane baku 2
+shinen of lifes roar 4
+moss kami 2
+
+
+land 
+======
+swamp 11
+forest 11
+
+enchantment
+==============
+honden of lifes web 1
+honden of the nights reach 2
+genju of the fens 2
+
+instant
+=============
+roar of jukai 1
+
+sorcery
+=============
+devouring greed 4
+
+artifact
+============
+
+
+deck builder: Ryan 'vapour' Niksch

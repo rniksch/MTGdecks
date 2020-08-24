@@ -1,0 +1,42 @@
+
+Creatures
+=================
+spike shot goblin 4
+hill giant 1
+goblin fire fiend 2
+goblin chariot 2
+vulshock berserker 2
+cayon wildcat 2
+glitterfang 3
+aetherflame wall 2
+
+land 
+======
+
+mountains 20
+
+enchantment
+==============
+firebreathing 3
+screaming fury 2
+
+
+instant
+=============
+shock 4
+fists of the anvil 4
+shatter 2
+yamabushis flame 2
+
+
+sorcery
+=============
+blaze 
+fireball 1
+lava spike 4
+volcantic hammer 3
+
+artifact
+============
+
+deck builder: Ryan 'vapour' Niksch

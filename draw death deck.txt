@@ -1,0 +1,37 @@
+
+Creatures
+=================
+fog of gnats 3
+will o the wisp 3
+uncle istvan 3
+seizan perverter of truth 1
+
+
+land 
+======
+swamp 22 
+mikokoro center of the sea 2
+
+enchantment
+==============
+underworld dreams 4
+
+instant
+=============
+dark ritual 4
+
+sorcery
+=============
+
+artifact
+============
+black vise 3
+the rack 2
+iron maiden 4
+wheel of torture  4
+teferis puzzle box 3
+anvil of bogardan 2
+howling mine 2
+skullcage 3
+
+deck builder: Ryan 'vapour' Niksch

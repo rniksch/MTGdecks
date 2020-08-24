@@ -1,0 +1,45 @@
+
+Creatures
+=================
+tangle asp 2
+glass asp 3
+sachi daughter of seshiro 2
+kashi-tribe elite 1
+marsh boa 1
+patagia viper 1
+orochi leafcaller 4
+matsu-tribe decoy 2
+sosuke son of seshiro 1
+kashi-tribe warriors 2
+orochi sustainer 4
+sukura-tribe scout 3
+matsu-tribe birdstalker 2
+matsu-tribe sniper 2
+orochi ranger 4
+sakura-tribe springcaller 3
+orochi eggwatcher `
+shidako broodmistress 1
+kashi-tribe reaver 2
+sakura-tribe elder 4
+
+land 
+======
+forest
+
+enchantment
+==============
+
+instant
+=============
+
+sorcery
+=============
+sosukes summons 4
+
+artifact
+============
+coat of  arms 1
+junkyo bell 1
+orochi hatchery 1
+
+deck builder: Ryan 'vapour' Niksch

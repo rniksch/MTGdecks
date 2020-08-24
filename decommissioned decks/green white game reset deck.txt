@@ -1,0 +1,47 @@
+
+Creatures
+=================
+silhana ledgewalker 2
+tangel asp 2
+voice of all 2
+angel of mercy 4
+traproot kami 3
+terravore 1
+loxodon gatekeeper 1
+
+land 
+======
+forest 14
+plains 12
+
+enchantment
+==============
+worship 1
+glorious anthem 1
+
+instant
+=============
+respite 2
+naturalize 2
+dryads caress 2
+reverse damage 1
+
+
+sorcery
+=============
+wrath of god 1
+armagedon 2
+beacon of creation 4 
+rampant growth 2
+cataclysm 1
+march of souls 2
+final judgement 1
+
+
+
+
+
+
+artifact
+============
+coat of arms 1

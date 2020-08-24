@@ -1,0 +1,53 @@
+
+Creatures
+=================
+ambush commander 1
+imperious perfect 2
+gempalm strider 2
+llanowar elves 3
+wood elves 3
+lys alana huntmaster 2
+well wisher 2
+elvish eulogist 2
+heedless one 1
+stonewood invoker 1
+sylvan messenger 1
+wirewood herald 1
+elvish promenade 1
+wirewood symbiote 1
+wrens run vanquisher 1
+voice of the woods 1
+allosaurun rider 1
+timber watch elf 1
+elvish harbringer 1
+elvish warrior 3
+
+
+land 
+======
+forest 19
+tranquil thicket 2
+wirewood lodge 1
+
+
+enchantment
+==============
+
+instant
+=============
+wildsize 1
+gaint growth 2
+
+
+sorcery
+=============
+harmonize 1
+
+
+artifact
+============
+moonglove extract 3
+slate of ancestry 1
+
+
+deck builder: unknown (prebuilt)

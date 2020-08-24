@@ -1,0 +1,38 @@
+
+Creatures
+=================
+rathi trapper 4
+ostiary thrull 2
+blightspeaker 4
+infectious host 3
+highway robber 3
+blind hunter 3
+mourning thrull 2
+royal assassin 4
+
+land 
+======
+swamps 11
+island 11
+orzhova the church of deals 4 (missing 3)
+
+enchantment
+==============
+blessing of leeches 4
+ragged veins 4
+pillory of the sleepless 4
+faiths fetters 4
+debtors knell 2
+
+instant
+=============
+
+sorcery
+=============
+
+
+artifact
+============
+
+
+deck builder: Ryan 'vapour' Niksch

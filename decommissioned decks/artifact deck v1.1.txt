@@ -1,0 +1,48 @@
+ver 1.1
+Creatures
+=================
+iron myr 2
+gold myr 2
+leaden myr 2
+silver myr 2
+copper myr 2
+myr enforcer 2
+frogmite 4
+leonin elder 3
+disciple of the vault 4
+mycosynth golem 3
+skyreach manta 3
+nin shrieker 2
+broodstar 4
+mishra artificer prodigy 3
+darksteel colossus 4
+
+
+land 
+======
+seat of synod 9
+ancient den 5
+vault of  whispers 6
+great furnace 5
+
+enchantment
+==============
+
+instant
+=============
+
+sorcery
+=============
+
+artifact
+============
+aether spellbomb 2
+sunbeam spellbomb 4
+pyrit spell bomb 3
+slagwurm armor 2
+sale of chiss-goria 2
+tooth of chiss-goria 2
+howling mine 4
+font of mythos 2
+cranial plating 3
+claws of gix 4

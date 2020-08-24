@@ -1,0 +1,65 @@
+
+Creatures
+=================
+etched oracle 2
+lodestone myr 1
+arsenal thresher 1
+master of etherium 1
+sarcomite myr 1
+arcbound crusher 1
+wizard replica 1
+suntouched myr 1
+vedalken engineer 1
+silver myr 1
+leaden myr 1
+iron myr 1
+copper myr 1
+gold myr 1
+sludge strider 1
+arcbound slith 1
+bosh iron golum 1
+myr enforcer 2
+broodstar 1
+qumulox 1
+
+land 
+======
+plains 3
+forest 1
+swamp 3
+island 8
+mountain 2
+achient den 1
+great furnace 1
+tree of tales 1
+seat of synod 2
+vault of whispers 1
+
+
+enchantment
+==============
+
+
+instant
+=============
+keep watch 1
+whiplash trap 1
+thirst for knowledge 1
+
+sorcery
+=============
+fabricate 1
+
+artifact
+============
+darksteel forge 1
+door to nothingness 1
+cranial plating 1
+loxodon warhammer 1
+nuisance engine 1
+skeleton shard 2
+pentad prism 2
+pentavus 1
+serum tank 1
+
+deck builder: Ryan 'vapour' Niksch

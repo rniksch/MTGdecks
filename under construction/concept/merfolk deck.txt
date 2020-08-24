@@ -1,0 +1,41 @@
+
+Creatures
+=================
+merrow reejerey 1
+wanderwine prophets 1
+lord of atlantis 4
+rootwaer command 4
+prodigal socerer 4
+manta rider 3
+rootwater hunter 4
+reef shaman 3
+seasinger 3
+tidal warrior 4
+merfolk of the pearl trident 4
+seahunter 4
+Deepchannel Mentor (missing)
+land 
+======
+island 21
+
+
+enchantment
+==============
+soul barrier 3
+flood 2
+seas claim 4
+
+
+instant
+=============
+mana leak 4
+
+sorcery
+=============
+
+artifact
+============
+quicksilver fountain 2
+
+
+deck builder: Brenton 'Zakeroph' Mcphee

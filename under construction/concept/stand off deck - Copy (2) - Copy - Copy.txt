@@ -1,0 +1,54 @@
+4 havoc demon
+2 liege of the pit
+1 malfegor
+3 prince of thralls
+4 grinning demon
+3 defiler of souls
+4 extractor demon
+1 reiver demon
+1 rakdos the defiler
+
+3 gibbering descent
+2 talisman of indulgence
+3 cryptic gateway
+2 rakdos signet
+3 obelisk of grixis
+2 talisman of dominance
+
+9 swamp
+4 island
+5 mountain
+2 rupture spire
+2 terramorphic expanse
+
+Creatures
+=================
+knight of the holy  nimbus 4
+
+
+
+land 
+======
+plains 12
+
+
+enchantment
+==============
+worship 1
+privileged position 3
+circle of protection red 3
+ivory mask 2
+
+
+instant
+=============
+
+sorcery
+=============
+
+artifact
+============
+darksteel reactor
+
+
+deck builder: Ryan 'vapour' Niksch

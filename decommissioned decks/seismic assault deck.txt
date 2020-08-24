@@ -1,0 +1,36 @@
+
+Creatures
+=================
+akki blizzard-herder 4
+akki underminder 3
+goblin gardener 4
+
+
+land 
+======
+mountains 16
+urzas mine 2
+urzas tower 2
+urzas power plant 2
+
+enchantment
+==============
+price of glory 3
+seismic assault 4
+smoke 2
+
+instant
+=============
+desperate ritual 2
+barrel down sokenzan 4
+seething song 2
+
+sorcery
+=============
+stone rain 4
+demolish 4
+
+artifact
+============
+defence grid 2
+meekstone 2

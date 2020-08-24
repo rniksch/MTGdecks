@@ -1,0 +1,54 @@
+
+Creatures
+=================
+siege-gang commander 1
+mogg war marshal 2
+goblin cohort 3
+emberwilde augur 3
+skirk shaman 1
+goblin shedder 1
+gempalm incinerator 1 
+mogg fanatic 1
+ib halfheart goblin tactician 1
+clickslither 1
+skirk prospector 1
+goblin matron 1
+goblin warchief 1
+reckless one 1
+skirk drill sergent 2
+skirk fire marshal 1
+goblin ringleader 1
+raging goblin 2
+tar pitcher 1
+akki coalflinger 1
+mudbutton torchrunner 2
+flamewave invoker
+
+
+land 
+======
+mountains 22
+forgotten cave 1
+goblin burrows 1
+
+
+
+enchantment
+==============
+boggart shenanigans 2
+
+
+instant
+=============
+tarfire 2
+
+
+sorcery
+=============
+spitting earth 1
+
+
+artifact
+============
+
+deck builder: unknown (prebuilt)

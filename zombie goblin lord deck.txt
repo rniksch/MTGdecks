@@ -1,0 +1,52 @@
+
+Creatures
+=================
+stinkweed imp 1
+skeletal vampire 2
+nighscape familiar 2
+cackling imp 1
+grave digger 3
+pyre zombie 2
+phrexian slayer 1
+festering goblin 3
+severed legion 1
+goblin king 1
+lord of the undead 2
+zombie master 1
+raging goblin 3
+infectious host 1
+rakdos guildmage 1
+
+
+land 
+======
+swamp 12
+mountain 5
+rakdos carnarium  3
+
+enchantment
+==============
+dralnus crusade 2
+necromantic thirst 1
+debtors knell 1
+
+
+instant
+=============
+dark ritual 2
+terminate 4 
+daeth denied 1
+wrecking ball 1
+
+
+sorcery
+=============
+vicious hunger 1 
+diabolic tutor 1
+
+artifact
+============
+coat of arms 1
+demons horn 1
+
+deck builder: Ryan 'vapour' Niksch

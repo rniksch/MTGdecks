@@ -1,0 +1,44 @@
+
+Creatures
+=================
+mishra artificer prodigy 2
+
+
+land 
+======
+swamp 16
+mountains 2
+island 2
+crumbling necropolis 2
+
+
+enchantment
+==============
+underworld dreams 4
+phyrexian tyranny 2
+
+
+instant
+=============
+dark ritual 4
+breathe of malfegor 2
+
+sorcery
+=============
+sign in blood 4
+diabolic tutor 3
+consume spirt 1
+blightning 3
+
+artifact
+============
+teferis puzzle box 4
+howling mine 4
+font of mythos 4 
+oblisk of grixis 1
+ebony owl netsuke 2
+anvil of bogardan 4
+
+deck builder: Ryan 'vapour' Niksch
+	    : Brett 'Annihilator' Alexander
+revised : Psychicken

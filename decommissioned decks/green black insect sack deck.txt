@@ -1,0 +1,46 @@
+
+Creatures
+=================
+vulturous zombie 3
+living hive 2
+patron of the nezumi 1
+kokuaho the evening star 2
+golgari rotwurm 4
+gemhide sliver 3
+thornweald archer 2
+llanowar elves 3
+nightmare 2
+magus of the coffers 2
+deepcavern imp 2
+
+
+land 
+======
+swamps 13
+forest 9
+golgari rot farm 2
+
+
+enchantment
+==============
+doubling season 4
+grave pact 2
+debtors knell 1
+shielding plax 3
+
+
+instant
+=============
+dark ritual 2
+dark banishing 2
+
+sorcery
+=============
+beacon of creation 4
+
+artifact
+============
+coat of arms 1
+
+
+deck builder: Ryan 'vapour' Niksch

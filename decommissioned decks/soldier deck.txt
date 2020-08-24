@@ -1,0 +1,40 @@
+
+Creatures
+=================
+veteran armorer 3
+infantry veteran 2
+kjeldoran outrider 2
+honor guard 4
+rhox pikemaster 1
+silkenfist order 2
+mounted archers 2
+field marshal 1
+auriiok champion 2
+meadowboon 3
+
+land 
+======
+plains 22
+
+
+enchantment
+==============
+mobilazation  1
+faiths fetters 2
+pacifism 1
+armored assension 2
+empyrial armour 1
+castle 4
+noble stand 2
+
+instant
+=============
+disnechant 2
+warriors honor 3
+windborne charge 3
+
+sorcery
+=============
+
+artifact
+============

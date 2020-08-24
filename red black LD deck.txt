@@ -1,0 +1,42 @@
+
+Creatures
+=================
+helldozer 4
+Herald of leshrac 1
+trench wurm 1
+akki blizzard-herder 1
+goblin gardener 2
+
+land 
+======
+swamps 11
+mountain 11
+
+
+enchantment
+==============
+aether flash 4
+lilianas caress 2
+
+instant
+=============
+wrecking ball 2
+shatter 1
+smash to smithereens 1
+
+sorcery
+=============
+rancid earth 4
+rain of tears 4
+despoil 2
+stone rain 4
+poison the well 2
+yawning fissure 1
+seismic spike 3
+
+
+artifact
+============
+
+
+deck builder: Ryan 'vapour' Niksch

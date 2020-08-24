@@ -1,0 +1,45 @@
+
+Creatures
+=================
+battle-mad ronin 2
+hill giant 4
+vulshcok berserker 2
+balduvian barbarians 4
+
+
+land 
+======
+mountains 22
+
+
+
+enchantment
+==============
+goblin bombardment 3
+gratuitous voilence 3
+aggrevated assault 4
+
+
+
+instant
+=============
+yamabushis flame 2
+shatter 2
+
+sorcery
+=============
+fireball 2
+flame wave 2
+blaze 1
+disintegrate 1
+echoing ruin 2
+relentless assault 2
+insurection 4
+
+
+artifact
+============
+gauntlet of power 3
+
+deck builder: Ryan 'vapour' Niksch
+Concept: Warren 'StormHawk'

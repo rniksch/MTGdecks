@@ -1,0 +1,41 @@
+
+Creatures
+=================
+skeletal vampire 1
+giant cockroach 3
+bog imp 2
+plague beetle 3
+scathe zombies 2
+cackling imp 2
+razortooth rats 2
+kuros taken 2
+abyssal specter 2
+ascendant evincar 1
+spineless thug 2
+drudge skeletons 2
+looming shade 3
+infected vermin 2
+deathgazer 2
+sewerdreg 2
+
+land 
+======
+swamp 22
+
+enchantment
+==============
+bad moon 1
+unholy strength 2
+
+instant
+=============
+dark ritual 2
+
+
+sorcery
+=============
+
+artifact
+============
+
+deck builder: Ryan 'vapour' Niksch

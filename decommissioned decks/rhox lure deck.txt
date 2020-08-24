@@ -1,0 +1,37 @@
+
+Creatures
+=================
+elvish poineer 3
+fyndhorn elder 3
+wood elves 2
+thicket basilisk 3
+spined wurm 4
+lone wolf 3
+rhox 3
+llanowar behemoth 2
+primeval force 1
+
+
+land 
+======
+forest 23
+
+enchantment
+==============
+lure 4
+
+instant
+=============
+giant growth 4
+naturalize 2
+
+sorcery
+=============
+wing snare 2
+rampant growth 2
+
+artifact
+============
+
+
+deck builder: Ryan 'vapour' Niksch

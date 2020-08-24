@@ -8,16 +8,21 @@ There is no getting around this, I simply wanted to be an areshole, the most hat
 Quote from Warren: "Take those fucking fatespinners, tear them up and go fuck yourself"
 
 == Creatures
+----
 keiga the tide star 2
 fatespinner 3
 phantom warrior 4
 roil elemental 1
+----
 
 
 == Lands 
+----
 island 22
+----
 
 == Enchantment
+----
 memory errosion 1
 annex 3
 wartax 2
@@ -26,22 +31,29 @@ dream leash 4
 mind control 1
 persuation 1
 followed footsteps 1
+----
 
 
 == Instant
+----
 time stop 2
 boomerrang 4
+----
 
 
 == Sorcery
+----
 beacon of tomorrows 1
 walk the arons 2
+----
 
 
 == Artifact
+----
 jestersv scepter 2
 timesifter 3
 mindslaver 1
+----
 
 
 

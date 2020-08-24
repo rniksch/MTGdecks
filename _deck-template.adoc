@@ -5,21 +5,33 @@
 == Concept:
 
 == Creatures
+----
+----
 
 
 == Lands 
+----
+----
 
 
 == Enchantment
+----
+----
 
 
 == Instant
+----
+----
 
 
 == Sorcery
+----
+----
 
 
 == Artifact
+----
+----
 
 
 

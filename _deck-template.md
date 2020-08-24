@@ -1,27 +1,27 @@
-#Deck Name
+# Deck Name
 
 
 
-##Concept:
+## Concept:
 
-##Creatures
-
-
-##Lands 
+## Creatures
 
 
-##enchantment
+## Lands 
 
 
-##Instant
+## Enchantment
 
 
-##Sorcery
+## Instant
 
 
-##Artifact
+## Sorcery
+
+
+## Artifact
 
 
 
-*deck builder*: Ryan 'vapour' Niksch
-*late updated*:
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:

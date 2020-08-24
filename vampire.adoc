@@ -7,6 +7,7 @@ Mostly a slap togther of vampires from the zendicar block. aether vile to help g
 
 
 == Creatures
+----
 repentant vampire 1
 guul draz vampire 3
 gatekeeper of malakir 1
@@ -20,27 +21,38 @@ blood seeker 3
 vampire aristocrat 2
 vampire lacerator 3
 pulse tracker 4 (missing 2)
+----
 
 
 == Lands 
+----
 swamp 16
 piranha marsh 4
+----
 
 == Enchantment
+----
+----
 
 
 == Instant
+----
 terror 2
+----
 
 == Sorcery
+----
 consume spirit 2
 feast of blood 2
 blood tribute 1
 diabolic tutor 2 
 grim discovery 1
+----
 
 == Artifact
+----
 aether vile 3
+----
 
 
 

@@ -1,0 +1,41 @@
+
+Creatures
+=================
+
+keiga the tide star 2
+fatespinner 3
+phantom warrior 4
+roil elemental 1
+
+
+land 
+======
+island 22
+
+enchantment
+==============
+memory errosion 1
+annex 3
+wartax 2
+counter balance 4
+dream leash 4
+mind control 1
+persuation 1
+followed footsteps 1
+
+instant
+=============
+time stop 2
+boomerrang 4
+
+
+sorcery
+=============
+beacon of tomorrows 1
+walk the arons 2
+
+artifact
+============
+jestersv scepter 2
+timesifter 3
+mindslaver 1

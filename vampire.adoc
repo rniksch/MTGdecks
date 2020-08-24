@@ -1,6 +1,12 @@
+== Deck Name
+Vampire
 
-Creatures
-=================
+
+== Concept:
+Mostly a slap togther of vampires from the zendicar block. aether vile to help get the more expensive items out, and diabolic tutor to to the vampire nocturness.
+
+
+== Creatures
 repentant vampire 1
 guul draz vampire 3
 gatekeeper of malakir 1
@@ -14,28 +20,31 @@ blood seeker 3
 vampire aristocrat 2
 vampire lacerator 3
 pulse tracker 4 (missing 2)
-land 
-======
+
+
+== Lands 
 swamp 16
 piranha marsh 4
 
-enchantment
-==============
+== Enchantment
 
-instant
-=============
+
+== Instant
 terror 2
 
-sorcery
-=============
+== Sorcery
 consume spirit 2
 feast of blood 2
 blood tribute 1
 diabolic tutor 2 
 grim discovery 1
 
-artifact
-============
+== Artifact
 aether vile 3
 
-deck builder: Ryan 'vapour' Niksch
+
+
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:
+
+

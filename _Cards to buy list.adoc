@@ -1,0 +1,19 @@
+== Deck Name
+Cards to buy list
+
+
+== Concept:
+This is simply a aggregate list of items needed for various decks
+
+pulse tracker 2 
+sensei's devining top 3
+isochron sceptre 2
+wrens run packmaster 2
+Wren's Run Vanquisher 4
+knight of the holy nimbus 1
+Deepchannel Mentor
+
+
+
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**: 2020 Aug 25

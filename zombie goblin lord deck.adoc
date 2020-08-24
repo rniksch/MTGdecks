@@ -1,0 +1,71 @@
+== Deck Name
+Zombie goblin lord
+
+
+== Concept:
+I loved zombies, loved the speed of goblins and the idea of lords bulking them up. But what if everything was a zombie and a globlin. 
+
+It was one of my very early decks. Not a great deck you will lose more often than not but it is fun.
+
+== Creatures
+----
+stinkweed imp 1
+skeletal vampire 2
+nighscape familiar 2
+cackling imp 1
+grave digger 3
+pyre zombie 2
+phrexian slayer 1
+festering goblin 3
+severed legion 1
+goblin king 1
+lord of the undead 2
+zombie master 1
+raging goblin 3
+infectious host 1
+rakdos guildmage 1
+----
+
+
+== Lands 
+----
+swamp 12
+mountain 5
+rakdos carnarium  3
+----
+
+
+== Enchantment
+----
+dralnus crusade 2
+necromantic thirst 1
+debtors knell 1
+----
+
+
+== Instant
+----
+dark ritual 2
+terminate 4 
+daeth denied 1
+wrecking ball 1
+----
+
+
+== Sorcery
+----
+vicious hunger 1 
+diabolic tutor 1
+----
+
+
+== Artifact
+----
+coat of arms 1
+demons horn 1
+----
+
+
+**deck builder**: Ryan 'vapour' Niksch
+**First build**: 2004
+**late updated**: pre 2010

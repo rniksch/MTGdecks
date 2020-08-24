@@ -1,0 +1,65 @@
+== Deck Name
+Rat deck
+
+
+
+== Concept:
+Rats loads of rats, big onces. marrow-gnawer and rat catcher to generate more rats.
+
+== Creatures
+----
+relentless rats 10
+stinkweed imp 2
+pestilence rats 4
+nightmare 2
+rat catcher 3
+marrow-gnawer 3
+swarm of rats 4
+skeletal vampire 3
+nezumi gravrobber 1
+patron of the nezumi 1
+----
+
+
+== Lands 
+----
+swamp 25
+----
+
+
+== Enchantment
+----
+----
+
+
+== Instant
+----
+----
+
+
+== Sorcery
+----
+consume spirit 1
+raise dead 2
+----
+
+
+== Artifact
+----
+mirror gallery 2
+coat of arms 2
+----
+
+== Related
+----
+thrumming rats
+----
+
+
+
+
+deck builder: Ryan 'vapour' Niksch
+
+
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:

@@ -1,0 +1,53 @@
+== Deck Name
+thrumming rat deck
+
+
+
+== Concept:
+during the mirrodin block relentless rats was released and you have more than 4 in a deck, that with thrumming stone was too good to resist. 
+
+
+== Creatures
+----
+relentless rats 20
+marrow-gnawer 3
+skeletal vampire 2
+stinkweed imp 2
+----
+
+
+== Lands 
+----
+swamp 22
+----
+
+
+== Enchantment
+----
+----
+
+
+== Instant
+----
+----
+
+
+== Sorcery
+----
+diabolic tutor 3
+----
+
+
+== Artifact
+----
+thrumming stone 4
+coat of arms 2
+----
+
+== Related
+----
+Rat deck
+----
+
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**: pre 2010

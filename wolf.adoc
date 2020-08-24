@@ -1,0 +1,61 @@
+== Deck Name
+Wolf
+
+
+== Concept:
+The lorwyn block added some really cool wolves, with the ability for generate tokens. so a fun fast and suprisingly hard hitting deck.
+
+
+== Creatures
+----
+dire wolf 1
+watch wolf 3
+tandra wolf 4
+lone wolf 4
+master of the wild hunt 1
+tolsimir wolfblood 1
+howling wolf 4
+tel-jilad wolf 4
+canopy spider 2
+wrens run packmaster 2 (more)
+----
+
+
+== Lands 
+----
+plains 8
+forest 12
+----
+
+
+== Enchantment
+----
+rancor 3 
+fable of wolf and owl 1
+----
+
+
+== Instant
+----
+naturalize 2
+----
+
+
+== Sorcery
+----
+howl of the nightpack 4
+rampant growth 4
+monstrous growth 4
+----
+
+
+== Artifact
+----
+----
+
+
+
+deck builder: Ryan 'vapour' Niksch
+
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**: pre 2013

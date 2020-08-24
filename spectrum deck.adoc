@@ -1,6 +1,12 @@
+== Deck Name
+spectrum deck
 
-Creatures
-=================
+
+== Concept:
+
+
+== Creatures
+----
 valdalken engineer 1
 arcbound crusher 2
 skyreach manta 3
@@ -10,41 +16,48 @@ myr enforcer 1
 suncrusher 3
 viridian acolyte 2
 atched oracle 1
+----
 
 
-land 
-======
+== Lands 
+----
 swamp 3
 plain 3
 forest 9
 mountains 3
 island 3
 mirrodins core 2
+----
 
 
-
-enchantment
-==============
+== Enchantment
+----
 dawns reflection 1
+----
 
 
-instant
-=============
+== Instant
+----
 tel-jilad justice 2
+----
 
 
-sorcery
-=============
+== Sorcery
+----
 echoing ruin 3
 journey of discovery 1
+----
 
-artifact
-============
+
+== Artifact
+----
 darksteel pendant 2
 darksteel ingot 3
 door to nothingness 2
 chromatic sphere 2
 pentad prism 2
+----
 
 
-deck builder: Ryan 'vapour' Niksch
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**: pre 2010

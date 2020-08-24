@@ -1,6 +1,12 @@
+== Deck Name
+archenemy undead apocalypse
 
-Creatures
-=================
+
+
+== Concept:
+
+== Creatures
+----
 bog  witch 1
 avatar of discord 1
 kaervek the merciless 1
@@ -19,28 +25,35 @@ freassembling skeleton 1
 dregscape zombie 1
 festering goblin 1
 artisan of kozilek 1
+----
 
 
-land 
-======
+== Lands 
+----
 swamp  13
 mountain 7
 barren moor 2 
 rakdos carnarium 2 
+----
 
-enchantment
-==============
+
+== Enchantment
+----
 zombie infestation 1
+----
 
-instant
-=============
+
+== Instant
+----
 inferno trap 1
 bituminous blast 1
 terminate 2
 makeshift mannequin 1
+----
 
-sorcery
-=============
+
+== Sorcery
+----
 sign in blood 2
 infest 1
 torrent of souls 1
@@ -48,10 +61,15 @@ incremntal blight 1
 zombify 1
 beacon of unrest 1
 reanimate 1
+----
 
-artifact
-============
+
+== Artifact
+----
 rakdos signet 2
+----
 
 
-deck builder: Ryan 'vapour' Niksch
+
+**deck builder**: pre build
+**late updated**:

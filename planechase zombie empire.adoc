@@ -1,6 +1,12 @@
+== Deck Name
+planechase zombie empire
 
-Creatures
-=================
+
+
+== Concept:
+
+== Creatures
+----
 festering goblin 2
 dregscape zombie 1
 rotting rats 1
@@ -17,28 +23,34 @@ noxious ghoul 1
 ascendant evincar 1
 nefashu 1
 helldozer 1
+----
 
 
-land 
-======
+== Lands 
+----
 swamp 23
 leechridden swamp 2
 cabal coffers 1
+----
 
 
-enchantment
-==============
+== Enchantment
+----
 phyrexian arena 1
 gravepact 1
+----
 
-instant
-=============
+
+== Instant
+----
 dark ritual 2
 hideous end 1
 crual revival 1
+----
 
-sorcery
-=============
+
+== Sorcery
+----
 innocent blood 1
 syphon soul 1
 beseech the queen 1
@@ -47,9 +59,17 @@ beacon of unrest 1
 incremental blight 1
 consume spirit 1
 profane command 1
-
-artifact
-============
+----
 
 
-deck builder: Ryan 'vapour' Niksch
+== Artifact
+----
+----
+
+
+
+
+
+
+**deck builder**: Pre build
+**late updated**:

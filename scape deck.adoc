@@ -1,6 +1,13 @@
+== Deck Name
+scape deck
 
-Creatures
-=================
+
+== Concept:
+I started in the late 90s with the planeshift set. Having many cards from this set I wanted to see what it would be like if everything had a cost reduction impact on everything else.
+
+
+== Creatures
+----
 thornscape battlemage 4
 thornscape familiar 3
 thornscape master 2
@@ -15,9 +22,11 @@ stormscape familiar 2
 thunderscape apprentice 2
 thunderscape familiar 2
 thunderscape master 1
+----
 
-land 
-======
+
+== Lands 
+----
 mountains 5
 swamp 7
 forest 5
@@ -28,23 +37,36 @@ simic growth chamber 1
 golgari rot farm 1
 dimir aquaduct 1
 rakdos carnarium 1
+----
 
 
-enchantment
-==============
+== Enchantment
+----
 sinister strength 2
 blessing of leaches 3
+----
 
-instant
-=============
+
+== Instant
+----
 terminate 2
+----
 
-sorcery
-=============
+
+== Sorcery
+----
 hull breach 2
+----
 
-artifact
-============
+
+== Artifact
+----
 primatic lens 2
+----
 
-deck builder: Ryan 'vapour' Niksch
+
+
+
+
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**: pre 2010

@@ -1,6 +1,12 @@
+== Deck Name
+planechase elemental thunder
 
-Creatures
-=================
+
+
+== Concept:
+
+== Creatures
+----
 flamekin harbringer 2
 smokebraider 2
 bogardan firefiend 1
@@ -18,27 +24,35 @@ living hive 1
 verdant force 1
 ivy elemental 1
 
+----
 
-land 
-======
+
+== Lands 
+----
 mountain 9 
 forest 9
 gruul turf 2
 shivan oasis 2
 terramorphic exdpanse 2
+----
 
-enchantment
-==============
+
+== Enchantment
+----
 fertile ground 1
 fires of valimaya 1
+----
 
-instant
-=============
+
+== Instant
+----
 branching bolt 1
 tribal unity 1
+----
 
-sorcery
-=============
+
+== Sorcery
+----
 search for tomorrow 1
 browbeat 1
 hull breach 1
@@ -50,10 +64,19 @@ pyrotechnics 1
 blaze 1
 savage twister 1
 assault / battery 1
+----
 
-artifact
-============
+
+== Artifact
+----
 mask of memory 1
 mage slayer 1
+----
 
-deck builder: Ryan 'vapour' Niksch
+
+
+
+
+
+**deck builder**: pre build
+**late updated**:

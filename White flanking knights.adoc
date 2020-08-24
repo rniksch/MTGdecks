@@ -1,0 +1,68 @@
+== Deck Name
+white flanking knights
+
+
+== Concept:
+I had a large collection of really old cards. PLaying a few games with friends I realized few people had heard of flanking so I decided to put together a flanking deck. I considered flanking and banding but that would take too long to explain in each game. 
+
+
+== Creatures
+----
+cavalry master 3
+serra avenger 2
+pentarch paladin 1
+gustcloack cavalier 2
+stuffy doll 2
+cloudchaser kestrel 1
+outrider en-kor 2
+benalish cavalry 3
+celestial crusader 2
+paladin of prahv 2
+d'avenant healer 2
+zhalfirin commander 2
+foriysian interceptor 1
+icatian javelineers 2
+errant doomsayers 2
+knight of the holy nimbus 4 (missing one)
+ivory giant 1
+crusading knight 2
+----
+
+
+== Lands 
+----
+plains 23
+----
+
+
+== Enchantment
+----
+glorious anthem 1
+----
+
+
+== Instant
+----
+fortify 1
+----
+
+
+== Sorcery
+----
+gaze of justice 1
+devine congregation 1
+----
+
+
+== Artifact
+----
+thunder totem 2
+----
+
+
+
+
+
+
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**: pre 2012

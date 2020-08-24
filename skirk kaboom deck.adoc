@@ -1,6 +1,13 @@
+== Deck Name
+skirk kaboom deck
 
-Creatures
-=================
+
+
+== Concept:
+fast paced goblin deck with the skirk fire marshal dealing 10 damage at a time.
+
+== Creatures
+----
 raging goblin 4
 goblin king 2
 skirk fire marshal 2
@@ -14,28 +21,39 @@ goblin warchief 2
 mogg war marshal 3
 boros recruit 3
 moggcatcher 1
+----
 
-land 
-======
+
+== Lands 
+----
 mountain 22
+----
 
-enchantment
-==============
+
+== Enchantment
+----
 goblin bombardment 3
+----
 
 
-instant
-=============
+== Instant
+----
+----
 
 
-sorcery
-=============
+== Sorcery
+----
 goblin warstrike 3
 empty the warrens 3
+----
 
-artifact
-============
+
+== Artifact
+----
 sarpadian empires vol vii 1
+----
 
 
-deck builder: Ryan 'vapour' Niksch
+
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:

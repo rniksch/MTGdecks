@@ -1,0 +1,57 @@
+== Deck Name
+shade deck
+
+
+
+== Concept:
+The idea of having a deck of creatures that is unblocked could be pumped up sounded fun.
+
+== Creatures
+----
+whispering shade 4
+looming shade 3
+lost soul 3
+frozen shade 2
+dungeon shade 2
+darkiling stalker 3
+bod wraith 2
+----
+
+
+== Lands 
+----
+swamp 22
+----
+
+
+== Enchantment
+----
+evil presence 2
+gloom 3
+blanket of night 4
+----
+
+
+== Instant
+----
+dark banishing 2
+----
+
+
+== Sorcery
+----
+soul burn 3
+kaerveks hex 2
+drain life 3
+stench of evil 4
+----
+
+
+== Artifact
+----
+----
+
+
+
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:

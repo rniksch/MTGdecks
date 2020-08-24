@@ -1,0 +1,55 @@
+== Deck Name
+snogard deck 
+
+snogard dragons backwards
+
+
+
+== Concept:
+Dragons hmmm lots of dragons. Slow to get started, but really fun if you can get it running.
+
+== Creatures
+----
+bogarden hellkite 4
+shivan dragon 2
+kokusho the evening star 4
+ornithopter 4
+----
+
+
+== Lands 
+----
+mountain 11
+swamp 11
+----
+
+
+== Enchantment
+----
+----
+
+
+== Instant
+----
+dark ritual 3
+seething song 3
+desperate ritual 2
+----
+
+
+== Sorcery
+----
+dragonstorm 4
+----
+
+
+== Artifact
+----
+gauntlet of power 4
+spellbook 4
+mishras bauble 4 
+----
+
+
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:

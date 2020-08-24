@@ -1,6 +1,12 @@
+== Deck Name
+planeschase metalic dreams
 
-Creatures
-=================
+
+
+== Concept:
+
+== Creatures
+----
 etched oracle 2
 lodestone myr 1
 arsenal thresher 1
@@ -21,9 +27,11 @@ bosh iron golum 1
 myr enforcer 2
 broodstar 1
 qumulox 1
+----
 
-land 
-======
+
+== Lands 
+----
 plains 3
 forest 1
 swamp 3
@@ -34,24 +42,30 @@ great furnace 1
 tree of tales 1
 seat of synod 2
 vault of whispers 1
+----
 
 
-enchantment
-==============
+== Enchantment
+----
+----
 
 
-instant
-=============
+== Instant
+----
 keep watch 1
 whiplash trap 1
 thirst for knowledge 1
+----
 
-sorcery
-=============
+
+== Sorcery
+----
 fabricate 1
+----
 
-artifact
-============
+
+== Artifact
+----
 darksteel forge 1
 door to nothingness 1
 cranial plating 1
@@ -61,5 +75,15 @@ skeleton shard 2
 pentad prism 2
 pentavus 1
 serum tank 1
+----
 
-deck builder: Ryan 'vapour' Niksch
+
+
+
+
+
+
+
+
+**deck builder**: Pre build
+**late updated**:

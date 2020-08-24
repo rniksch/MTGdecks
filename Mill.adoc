@@ -1,6 +1,12 @@
+== Deck Name
+Mill
 
-Creatures
-=================
+
+== Concept:
+small deck syndrome, cant play magic well if you dont have a deck
+
+== Creatures
+----
 junktroller 2
 szadek lord of sectrets 2
 shimmering glasskite 2
@@ -8,26 +14,31 @@ circu dimir lobotomist 2
 drift of phamtasms 3
 vedalken entrancer 2
 nemesis of reason 2
+----
 
 
-
-land 
-======
+== Lands 
+----
 swamp 9
 island 12
+----
 
-enchantment
-==============
+
+== Enchantment
+----
 leyline of the void 1
 memory erosion 4
+----
 
 
-instant
-=============
+== Instant
+----
 dampen thought 3
+----
 
-sorcery
-=============
+
+== Sorcery
+----
 psychic drain 1
 traumatize 4
 tunnel vision 3
@@ -35,11 +46,21 @@ glimpse the unthinkable 4
 tome scour 4
 mind funeral 4
 sanity grinding 1
+----
 
-artifact
-============
+
+== Artifact
+----
 tormods crypt 2
 whetwheel 1
+----
+
+
+
 
 
 deck builder: Ryan 'vapour' Niksch
+
+
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:

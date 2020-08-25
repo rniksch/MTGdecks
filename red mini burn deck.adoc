@@ -1,0 +1,58 @@
+== Deck Name
+red mini burn deck
+
+
+
+== Concept:
+
+== Creatures
+----
+mogg war marshal 2
+goblin chariot 2
+frostling 3
+glitterfang 3
+aetherflame wall 2
+----
+
+
+== Lands 
+----
+mountains 22
+----
+
+
+== Enchantment
+----
+insolence 2
+seal of fire 3
+----
+
+
+== Instant
+----
+pyromatics 4
+first volley 3
+flame burst 3
+yamabushis flame 2
+crushing pain 3
+----
+
+
+== Sorcery
+----
+empty the warrens 3
+firebolt 3
+grapeshot 2
+----
+
+
+== Artifact
+----
+pyrite spellbomb 4
+----
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:
+----

@@ -1,0 +1,61 @@
+== Deck Name
+red black LD deck
+
+
+
+== Concept:
+just went through a phase where I hated land so this is the red balck version 
+
+== Creatures
+----
+helldozer 4
+Herald of leshrac 1
+trench wurm 1
+akki blizzard-herder 1
+goblin gardener 2
+----
+
+
+== Lands 
+----
+swamps 11
+mountain 11
+----
+
+
+== Enchantment
+----
+aether flash 4
+lilianas caress 2
+----
+
+
+== Instant
+----
+wrecking ball 2
+shatter 1
+smash to smithereens 1
+----
+
+
+== Sorcery
+----
+rancid earth 4
+rain of tears 4
+despoil 2
+stone rain 4
+poison the well 2
+yawning fissure 1
+seismic spike 3
+----
+
+
+== Artifact
+----
+----
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:
+----

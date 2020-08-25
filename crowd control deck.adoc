@@ -1,0 +1,67 @@
+== Deck Name
+crowd control deck
+
+
+
+== Concept:
+created at the time we were playing a lot of tribal games, this has a fair bit of discard combined with mass small creature control.
+
+== Creatures
+----
+repentant vampire 3
+abyssal specter 2
+silenet specter 4
+hypnotic specter 1
+phage the untouchable 1
+drudge skeletons 1
+ravenous rats 2
+knight of the dusk 2
+looming shade 1
+----
+
+
+== Lands 
+----
+swamp 23
+barren moor 2
+----
+
+
+== Enchantment
+----
+----
+
+
+== Instant
+----
+ghastly demise 2
+dark banishing 2
+----
+
+
+== Sorcery
+----
+extinction 2
+aether snap 1
+mind rot 1
+diabolic tutor 2
+walking nightmare 1
+plague wind 1
+syphin mind 2
+ostracize 1
+addle 2
+unburden 1
+distress 2
+----
+
+
+== Artifact
+----
+----
+
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:
+----

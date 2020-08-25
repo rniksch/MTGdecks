@@ -1,0 +1,61 @@
+== Deck Name
+black green zombie sac deck
+
+
+
+== Concept:
+
+== Creatures
+----
+lord of the undead 1
+traproot kami 2
+looming shade 1
+llanowar dead 3
+dross golem 1
+grave digger 3
+mourning thrull 3
+sakura-tribe elder 2
+skeletal vampire 4
+vulturous zombie 4
+gutless ghoul 2
+----
+
+
+== Lands 
+----
+swamps 13
+forest 10
+----
+
+
+== Enchantment
+----
+doubling season 1
+grave pact 4
+blessing of leeches 2
+----
+
+
+== Instant
+----
+putrefy 2
+----
+
+
+== Sorcery
+----
+kodamas reach 2
+----
+
+
+== Artifact
+----
+skull catapult 2
+----
+
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:
+----

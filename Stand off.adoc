@@ -1,0 +1,60 @@
+== Deck Name
+Stand off - WIP
+
+
+== Concept:
+
+== Creatures
+----
+knight of the holy  nimbus 4 missing 1
+blazing archon 1
+blinding angel 2 missing 1
+platinium angel 2 missing 1
+vengeful archon 2
+loxodon gatekeeper 1
+true believer 1
+kami of the false hope 3
+----
+
+
+== Lands 
+----
+plains 21
+----
+
+
+== Enchantment
+----
+worship 4 missing 1
+privileged position 4
+circle of protection red 3 missing 1
+ivory mask 2
+lashknife barrier 2 missing 1
+story circle 4 missing 2
+----
+
+
+== Instant
+----
+disenchant 3 missing 1
+beacon of immortality 1
+----
+
+
+== Sorcery
+----
+idyllic tutor 4 missing 3
+----
+
+
+== Artifact
+----
+darksteel reactor 2
+gauntlet of power 2
+----
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:
+----

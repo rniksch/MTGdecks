@@ -1,0 +1,57 @@
+== Deck Name
+rhox lure deck
+
+
+== Concept:
+some elves for mana excel, some big green creatures, 
+put the lure on Rhox all creatures block rhox, regen rhox and still have it deal damage to target player as though not blocked
+
+== Creatures
+----
+elvish poineer 3
+fyndhorn elder 3
+wood elves 2
+thicket basilisk 3
+spined wurm 4
+lone wolf 3
+rhox 3
+llanowar behemoth 2
+primeval force 1
+----
+
+
+== Lands 
+----
+forest 23
+----
+
+
+== Enchantment
+----
+lure 4
+----
+
+
+== Instant
+----
+giant growth 4
+naturalize 2
+----
+
+
+== Sorcery
+----
+wing snare 2
+rampant growth 2
+----
+
+
+== Artifact
+----
+----
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:
+----

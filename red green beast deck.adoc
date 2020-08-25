@@ -1,0 +1,62 @@
+== Deck Name
+red green beast deck
+
+
+
+== Concept:
+if beasts are not scary on their own the aether charge deals damage as a beast comes into play. 
+
+== Creatures
+----
+berserk murlodont 4
+sakura tribe elder 4
+chartooth cougar 2
+barhide mauler 1
+krosan warchief 4
+anurid swarmsnapper 4
+giant warthog krosan groundhsaker 1
+thresher beast 2
+kurgadon 4
+shaleskin bruiser 2
+brontotherium 1
+canopy crawler 1 
+explosive vegatation 1
+----
+
+
+== Lands 
+----
+forest 14
+mountains 14
+----
+
+
+== Enchantment
+----
+fires of yavimaya 3
+aether charge 4
+----
+
+
+== Instant
+----
+shock 2
+yamabushis flame 3
+----
+
+
+== Sorcery
+----
+----
+
+
+== Artifact
+----
+----
+
+
+
+----
+**deck builder**: Brenton 'Zakerpoh' Mcphee
+**late updated**:
+----

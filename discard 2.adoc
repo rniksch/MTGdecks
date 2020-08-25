@@ -1,4 +1,5 @@
 == Deck Name
+discard 2
 
 
 
@@ -6,21 +7,35 @@
 
 == Creatures
 ----
+rackling 4
+hypnotic specter 1
+dimir guildmage 2
+locust miser 3
+blizzard specter 4
+abysal specter 4
+stronghold rats 4
 ----
 
 
 == Lands 
 ----
+swamps 16
+shivan reef 1
+frost marsh 2
+waterviel cavern 2
 ----
 
 
 == Enchantment
 ----
+larceny 2
+megrim 4
 ----
 
 
 == Instant
 ----
+dark banishing 2
 ----
 
 
@@ -31,7 +46,11 @@
 
 == Artifact
 ----
+talon of pain 3
+tangle bloom 1
+
 ----
+
 
 
 ----

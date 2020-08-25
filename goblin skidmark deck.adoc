@@ -1,0 +1,80 @@
+== Deck Name
+goblin skidmark deck
+
+
+
+== Concept:
+I got absoluted fonged with this deck in a comp, and ended up winning the entire deck from the builder.
+
+its a fun fast paced goblin burn deck. but if you get the prefect 6 card opening draw it is a turn one kill. I first though this was a load of crap what are the chances you getting the perfect 6 card draw.
+
+I had it done to me and have managed to get the perfect draw a few times, even in a comp setting.  even if you dont get it often, that one time when you go first and and kill an player in the first turn is so worth the expression on their face.
+
+=== 6 cards needed for the skidmark
+----
+mountain
+raging goblin (1:1 with haste for 1 red mana)
+blazing shoal x2 (Free with the myogin)
+myogin of infinate x2  (sack the myogin to blazing shoal)
+----
+
+Blazing shoal and myogins each add 10 damage to your raging goblin i.e 21 damage first turn.
+
+
+
+
+== Creatures
+----
+raging goblin 4
+frenzied goblin 2
+goblin king 2
+mogg sentry 3
+goblin chariot 3
+myogin of infinate rage 4
+----
+
+
+== Lands 
+----
+mountain 20
+shinka the bloddsoaked keep 1
+----
+
+
+== Enchantment
+----
+----
+
+
+== Instant
+----
+seething song 1
+shock 4
+parallectric feedback 1
+blazing shoal 4
+guerrilla tactics 2
+----
+
+
+== Sorcery
+----
+incite histeria 1
+volcanic hammer 4
+lava axe 1
+lave spike 1
+----
+
+
+== Artifact
+----
+senseis devining top 2
+----
+
+
+
+
+
+----
+**deck builder**: Eugene 'Acid Cold'
+**late updated**:
+----

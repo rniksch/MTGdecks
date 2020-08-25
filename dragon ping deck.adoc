@@ -1,0 +1,61 @@
+== Deck Name
+dragon ping deck
+
+
+
+== Concept:
+
+== Creatures
+----
+wall of fire 1
+prodigal pyromancer 2
+pardic dragon 1
+shivan hellkite 1
+shivan dragon 2
+hill giant 2
+raging goblin 2
+lightning elemental 2
+llanowar elves 2
+sylvok explorer 3
+canopy spider 3
+----
+
+
+== Lands 
+----
+forests 11
+mountains 11
+----
+
+
+== Enchantment
+----
+fertile ground 2
+----
+
+
+== Instant
+----
+shock 3
+incinerate 4
+naturalize 2
+----
+
+
+== Sorcery
+----
+lava axe 2
+pyroclasm 2
+----
+
+
+== Artifact
+----
+----
+
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:
+----

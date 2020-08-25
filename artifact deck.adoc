@@ -1,0 +1,71 @@
+== Deck Name
+artifact deck v1.2
+
+
+
+== Concept:
+
+== Creatures
+----
+myr enforcer 4
+frogmite 4
+leonin elder 3
+disciple of the vault 4
+mycosynth golem 3
+skyreach manta 3
+nin shrieker 2
+broodstar 4
+mishra artificer prodigy 3
+darksteel colossus 4
+----
+
+
+== Lands 
+----
+seat of synod 4
+ancient den 4
+vault of  whispers 4
+great furnace 4
+tree of tales 4
+darksteel citadel 4
+frost marsh 2
+jwar isle refuge 1
+swamp 2
+mountian 1
+island 2
+
+----
+
+
+== Enchantment
+----
+----
+
+
+== Instant
+----
+----
+
+
+== Sorcery
+----
+----
+
+
+== Artifact
+----
+slagwurm armor 2
+sale of chiss-goria 2
+tooth of chiss-goria 2
+howling mine 4
+font of mythos 2
+cranial plating 3
+claws of gix 4
+scourglass 1
+----
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**: 2020 aug 26
+----

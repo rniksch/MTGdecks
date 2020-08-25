@@ -1,0 +1,66 @@
+== Deck Name
+life gain deck
+
+
+
+== Concept:
+wanted to have the ability to gain a massive amount of life.
+felidar sovereign provides a win condition from just life gain
+
+== Creatures
+----
+children of korlos 4
+martyr of sands 4
+soul warden 4
+felidar sovereign 4
+----
+
+
+== Lands 
+----
+plains 22
+----
+
+
+== Enchantment
+----
+karma 1
+enduring renewal 4
+debtors knell 4
+story circle 3
+faiths fetters 4
+----
+
+
+== Instant
+----
+DISENCHANT 3
+CONDEMN 4
+----
+
+
+== Sorcery
+----
+beacon of immortality 4
+sunscour 2
+wrath of god 2
+storm herd 4 
+proclamation of rebirth 4
+----
+
+
+== Artifact
+----
+----
+
+
+
+
+
+
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:
+----

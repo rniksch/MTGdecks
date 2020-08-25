@@ -1,0 +1,67 @@
+== Deck Name
+blue black artifact deck
+
+
+
+== Concept:
+
+== Creatures
+----
+leaden myr 1
+silver myr 1
+myr enforcer 2
+nin shrieker 2
+broodstar 2
+myr retriever 2
+lodestone myr 1
+somber hoverguard 2
+spire golem 2
+steel wall 2
+qumulox 4
+----
+
+
+== Lands 
+----
+seat of synod 4
+vault of  whispers 4
+swamp 3
+island 11
+----
+
+
+== Enchantment
+----
+----
+
+
+== Instant
+----
+thirst for knowledge 2
+irradiate 2
+----
+
+
+== Sorcery
+----
+thoughtcast 1
+----
+
+
+== Artifact
+----
+scale of chiss-goria 1
+tooth of chiss-goria 1
+darksteel pendant 2
+chromatic sphere 1
+banshees blade 2
+aether spellbomb 2
+sword of light and shadow 1
+----
+
+
+
+----
+**deck builder**: unknown
+**late updated**:
+----

@@ -1,0 +1,60 @@
+== Deck Name
+Mill 2 
+
+
+
+== Concept:
+
+== Creatures
+----
+undead alchemist 2
+selhoff Occultist 3
+snapcast mage 1
+Jace phantasm 4
+shriekgeist 3 missing 2
+
+----
+
+
+== Lands 
+----
+island 22
+----
+
+
+== Enchantment
+----
+Paradox haze 1
+curse of the bloody tome 3
+----
+
+
+== Instant
+----
+memorys journey 2
+thought scour 4
+dream twist 4 missing 1
+psychic spiral 1
+----
+
+
+== Sorcery
+----
+traumatize 4
+mind sculpt 4
+memory sluice 4 missing 2
+chill of foreboding 1
+----
+
+
+== Artifact
+----
+codex shredder 1
+mindcrank 2
+----
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:
+----

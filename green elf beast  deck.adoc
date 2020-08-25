@@ -1,0 +1,63 @@
+== Deck Name
+green elf beast deck
+
+
+
+== Concept:
+big green beasts made cheaper by elves
+
+== Creatures
+----
+wirewood elf 3
+krosan drover 4
+wood elves 3
+llanowar elves 3
+scaled wurm 2
+craw wurm 2
+siege wurm 4
+tyrranax 3
+fangren hunter 3 
+fangren pathcutter 2
+trained armodon 2
+moss kami 3
+giant spider 3
+tangle asp 2
+----
+
+
+== Lands 
+----
+forest 22
+----
+
+
+== Enchantment
+----
+----
+
+
+== Instant
+----
+naturalize 2
+----
+
+
+== Sorcery
+----
+rampant growth 3
+----
+
+
+== Artifact
+----
+----
+
+
+
+
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:
+----

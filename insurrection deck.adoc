@@ -1,0 +1,67 @@
+== Deck Name
+Insurrection Deck
+
+
+
+== Concept:
+The ability in a multipler game to gain control of all other players creatures and use them against the other players.
+
+and then sack them to goblin bombardment to deal extra damage so you dont have to give the creatures back at the end of the turn.
+
+
+== Creatures
+----
+battle-mad ronin 2
+hill giant 4
+vulshcok berserker 2
+balduvian barbarians 4
+----
+
+
+== Lands 
+----
+mountains 22
+----
+
+
+== Enchantment
+----
+goblin bombardment 3
+gratuitous voilence 3
+aggrevated assault 4
+----
+
+
+== Instant
+----
+yamabushis flame 2
+shatter 2
+----
+
+
+== Sorcery
+----
+fireball 2
+flame wave 2
+blaze 1
+disintegrate 1
+echoing ruin 2
+relentless assault 2
+insurection 4
+----
+
+
+== Artifact
+----
+gauntlet of power 3
+----
+
+
+
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**Concept** : Concept: Warren 'StormHawk'
+**late updated**:
+----

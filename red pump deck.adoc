@@ -1,0 +1,66 @@
+== Deck Name
+red pump deck
+
+
+
+== Concept:
+What would hapen if you made a really big spike shot goblin. 
+pinger becomes a cannon.
+with a splash of burn and aetherflame walls for scroud control
+
+== Creatures
+----
+spike shot goblin 4
+hill giant 1
+goblin fire fiend 2
+goblin chariot 2
+vulshock berserker 2
+cayon wildcat 2
+glitterfang 3
+aetherflame wall 2
+----
+
+
+== Lands 
+----
+mountians 20
+----
+
+
+== Enchantment
+----
+firebreathing 3
+screaming fury 2
+----
+
+
+== Instant
+----
+shock 4
+fists of the anvil 4
+shatter 2
+yamabushis flame 2
+----
+
+
+== Sorcery
+----
+blaze 
+fireball 1
+lava spike 4
+volcantic hammer 3
+----
+
+
+== Artifact
+----
+----
+
+
+
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:
+----

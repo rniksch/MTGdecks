@@ -1,0 +1,74 @@
+== Deck Name
+red blue burn pinger deck 
+
+
+
+== Concept:
+stuffy doll with pariahs shield 
+niv-mizzet + ophidian eye - continous ping well as long as your deck lasts
+
+
+
+== Creatures
+----
+vulshock sorcerer 2
+niv-mizzet the firemind 4 missing 4
+stuffy doll 3
+gelectrode 4
+prodigal sorcerer 3
+djinn illuminatas 1
+----
+
+
+== Lands 
+----
+islands 10
+mountains 10
+steam vents 2
+mikokoro center of the sea 1
+----
+
+
+== Enchantment
+----
+honden of infinate rage 1
+honden of the seeing winds 1
+furnace of wrath 3
+ophidian eye 4
+----
+
+
+== Instant
+----
+shock 3
+electrolyze 3
+----
+
+
+== Sorcery
+----
+lava spike 3
+shivan meteor 1
+aftershock 2
+volcanic hammer 3
+invoke the firemind 2
+flow of ideas 1
+----
+
+
+== Artifact
+----
+isochron scepter 2
+pariahs shield 3
+teferis puzzle box 3
+howling mine 3
+jinxed choker 1
+----
+
+
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:
+----

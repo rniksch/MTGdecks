@@ -1,0 +1,64 @@
+== Deck Name
+Boros deck
+
+
+
+== Concept:
+Small simple and fast
+
+
+== Creatures
+----
+skyknight legionnaire 4
+courier hawk 4
+agrus kos wojek veteran 2
+thundersong trumpeter 3
+sunhome ebforcer 2
+boros swift blade 4
+flame-kin zealot 3
+----
+
+
+== Lands 
+----
+plains 7
+mountains 8
+boros garrison 3
+sunhome fortress of the legion 2
+----
+
+
+== Enchantment
+----
+----
+
+
+== Instant
+----
+shock 3
+bathe in light 2
+parallectric feedback 2
+hidetsugus second rite 1
+lightning helix 4
+dvouring light 4
+----
+
+
+== Sorcery
+----
+----
+
+
+== Artifact
+----
+sunforger 2
+----
+
+
+
+
+
+----
+**deck builder**: Eugene 'Acid Cold'
+**late updated**:
+----

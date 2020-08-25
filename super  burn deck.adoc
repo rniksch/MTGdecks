@@ -1,0 +1,59 @@
+== Deck Name
+super  burn deck
+
+
+
+== Concept:
+
+== Creatures
+----
+thundermare 2
+lighting elemental 2
+----
+
+
+== Lands 
+----
+mountains 14
+----
+
+
+== Enchantment
+----
+aether flash 4
+----
+
+
+== Instant
+----
+shock 4
+lightning blast 2
+hidetsugus second rite 2
+kindle 4
+----
+
+
+== Sorcery
+----
+firebolt 4
+volcanic hammer 3
+sizzle 4
+thunderbolt 4
+rhystic lighting 2
+rolling thunder 2
+lava spike 3
+----
+
+
+== Artifact
+----
+gauntlet of power 3
+----
+
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**Concept**: Riaan 'Psychicken'
+**late updated**:
+----

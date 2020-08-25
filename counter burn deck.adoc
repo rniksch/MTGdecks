@@ -1,0 +1,59 @@
+== Deck Name
+counter burn deck
+
+
+== Concept:
+The frustration of having everything countered based on card cost. This deck ruined your day if you were playing weenie decks like goblins or elves.
+
+== Creatures
+----
+prodigal sorceror 3
+gelectrode 4
+----
+
+
+== Lands 
+----
+islands 11
+mountains 11
+----
+
+
+== Enchantment
+----
+counterbalance 4
+soul barrier 2
+----
+
+
+== Instant
+----
+time stop 2
+counterspell 4
+boomerang 2
+tarfire 4
+kindle 3
+yamabushis flame 2
+cancel 3
+----
+
+
+== Sorcery
+----
+volcanic hammer 2
+----
+
+
+== Artifact
+----
+jesters scepter 4
+senseis divining top 3 3 missing
+isochron scepter 4 2 missing
+----
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**Concept**: Riaan 'Psychicken'
+**late updated**:
+----

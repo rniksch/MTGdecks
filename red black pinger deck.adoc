@@ -1,0 +1,61 @@
+== Deck Name
+red black pinger deck
+
+
+
+== Concept:
+
+== Creatures
+----
+vulshock sorcerer 4
+viashino fangtail 2
+thunderscape apprentice 2
+rakdos ickspitter 4
+helldozer 1
+djinn illuminatus 1
+----
+
+
+== Lands 
+----
+swamps 8
+mountains 13
+----
+
+
+== Enchantment
+----
+death pits of rath 4
+----
+
+
+== Instant
+----
+shock 4
+pyromatics  2
+wrecking ball 4
+----
+
+
+== Sorcery
+----
+molten rain 1
+rain of embers 1
+volcanic hammer 3
+sizzle 2
+tremor 2
+----
+
+
+== Artifact
+----
+magewrights stone 2
+----
+
+
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:
+----

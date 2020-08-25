@@ -1,0 +1,66 @@
+== Deck Name
+Kavu
+
+
+
+== Concept:
+With loads of cards from the planscape set, though it would be fun to build a Kavu tribal deck.
+
+== Creatures
+----
+kavu monarch 4
+Kavu predator 2
+kavu titan 4
+llanowar elves 2
+kavu climber 2
+mire kavu 3
+stone kavu 3
+pygmy kavu 2
+serpentine kavu 2
+vulshock sorcerer 4
+horned kavu 2
+thnderscape familiar 2
+thornscape familiar 2
+voracious cobra 1
+caldera kavu 4
+kavu aggresso 2
+yavimaya kavu 4
+hooded kavu 3
+rogue kavu 2
+kavu primarch 4
+----
+
+
+== Lands 
+----
+forests 11
+mountains 11
+----
+
+
+== Enchantment
+----
+fires of yavimaya 2
+----
+
+
+== Instant
+----
+----
+
+
+== Sorcery
+----
+hull breach 2
+----
+
+
+== Artifact
+----
+----
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:
+----

@@ -1,0 +1,63 @@
+== Deck Name
+diskcard loop death deck
+
+
+
+== Concept:
+
+== Creatures
+----
+abyssal specter 2
+thunderscape battlemage 2
+kaervek the merciless 1
+ravenous rats 2
+stronghold rats 2
+----
+
+
+== Lands 
+----
+mountain  12
+swamp 12
+----
+
+
+== Enchantment
+----
+honden of infinate rage 2
+honden of nights reach 2
+megrim 4
+bottem less pits 4
+pain magnification 4
+furnace of wrath 4
+----
+
+
+== Instant
+----
+yamabushis flame 3
+----
+
+
+== Sorcery
+----
+mind peel 2
+distress 2
+cry of contrition 2
+sizzle 2
+mind rot 3
+small pox 1
+----
+
+
+== Artifact
+----
+howling mine 2
+----
+
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:
+----

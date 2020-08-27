@@ -13,10 +13,10 @@ I had it done to me and have managed to get the perfect draw a few times, even i
 === 6 cards needed for the skidmark
 image::https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/arcana/254_tallmountain2_csog5qoe85.jpg[mountain]
 image::https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Raging+Goblin[raging goblin]
-image::https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Blazing+Shoal[blazing shoal]
-image::https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Blazing+Shoal[blazing shoal]
-image::https://res.cloudinary.com/csicdn/image/upload/c_pad,fl_lossy,h_300,q_auto,w_300/v1/Images/Products/mtg%20art/Champions%20of%20Kamigawa/full/Myojin%20of%20Infinite%20Rage.jpg[myogin of infinate]
-image::https://res.cloudinary.com/csicdn/image/upload/c_pad,fl_lossy,h_300,q_auto,w_300/v1/Images/Products/mtg%20art/Champions%20of%20Kamigawa/full/Myojin%20of%20Infinite%20Rage.jpg[myogin of infinate]
+image:https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Blazing+Shoal[blazing shoal]
+image:https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Blazing+Shoal[blazing shoal]
+image:https://res.cloudinary.com/csicdn/image/upload/c_pad,fl_lossy,h_300,q_auto,w_300/v1/Images/Products/mtg%20art/Champions%20of%20Kamigawa/full/Myojin%20of%20Infinite%20Rage.jpg[myogin of infinate]
+image:https://res.cloudinary.com/csicdn/image/upload/c_pad,fl_lossy,h_300,q_auto,w_300/v1/Images/Products/mtg%20art/Champions%20of%20Kamigawa/full/Myojin%20of%20Infinite%20Rage.jpg[myogin of infinate]
 
 
 Blazing shoal and myogins each add 10 damage to your raging goblin i.e 21 damage first turn.

@@ -1,0 +1,60 @@
+== Deck Name
+green regen deck
+
+
+
+== Concept:
+
+== Creatures
+----
+pygmy troll 4
+tel-jilad exile 2
+trolls of tel-jilad 2
+mossbridge troll 1 (missing 1) 
+horned troll 4 
+skyshroud troll 4 
+ancient silver back 3
+river boa 4
+krosan avenger 2
+giant spider 2
+canopy spider 2
+gorilla chieftain 4
+----
+
+
+== Lands 
+----
+forest 20
+----
+
+
+== Enchantment
+----
+primal rage 2 (missing 1)
+----
+
+
+== Instant
+----
+giant growth 3
+naturalize 2
+----
+
+
+== Sorcery
+----
+----
+
+
+== Artifact
+----
+----
+
+
+
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:
+----

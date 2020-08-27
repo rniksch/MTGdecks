@@ -1,0 +1,78 @@
+== Deck Name
+Planechase primordial hunger
+
+
+
+== Concept:
+
+== Creatures
+----
+brindle shoat 2
+mudbutton torchrunner 2
+gluttonous slime 1
+nullmage advocate 1
+thunder-thrash elder 1
+hissing iguanar 1
+wall of blossoms 1
+nest invader 1
+tukatongue thallid 2
+viridian emissary 2
+thorn-thrash vaishino1
+beetleback chief 2
+penumbra spider 1
+hellkite hatchling 1
+mitotic slime 1
+mycoloth 1
+thromok the insatiable 1
+preyseizer dragon 1
+dragonlair spider 1
+----
+
+
+== Lands 
+----
+gruul truf 2
+kazandu refuge 2
+khalni garden 1
+sharrg the rage pits 1
+terramorphic expanse 1
+forest 11
+mountain 6
+----
+
+
+== Enchantment
+----
+awakening zone 1
+warstorm surge 1
+fires of yavimaya 1
+
+----
+
+
+== Instant
+----
+fiery conclusion 1
+fling 1
+----
+
+
+== Sorcery
+----
+overrun 1
+hellion eruption 1
+mark of mutiny 1
+----
+
+
+== Artifact
+----
+flayer husk 2
+fractured powerstone 1
+----
+
+
+----
+**deck builder**: Pre build
+**late updated**:
+----

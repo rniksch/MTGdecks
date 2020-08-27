@@ -1,0 +1,58 @@
+== Deck Name
+Mirari burn
+
+
+
+== Concept:
+
+== Creatures
+----
+Kaervel the merciless 1
+highway robber 2
+gravedigger 3
+lava zombie 3
+shivan zombie 3
+lightning reaver 2
+----
+
+
+== Lands 
+----
+swamp 11
+mountian 11
+----
+
+
+== Enchantment
+----
+
+----
+
+
+== Instant
+----
+dark ritual 3
+breath of malfegor 1
+cabal ritual 4
+seething song 4
+terminate 3
+----
+
+
+== Sorcery
+----
+drain life 3
+soul burn 3
+----
+
+
+== Artifact
+----
+mirari 3
+----
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**: 2020 aug
+----

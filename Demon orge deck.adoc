@@ -1,0 +1,56 @@
+== Deck Name
+Demon ogre deck
+
+
+
+== Concept:
+
+== Creatures
+----
+viscera dragger 2
+deathcurse ogre 4
+raving oni-slave 4
+poisonbelly orge 4
+painwrecker oni 3
+gutwrencher oni 2
+scourge of the numai 4
+ogre marauder 2
+villainous ogre 2
+blood speaker 2
+grave digger 3
+----
+
+
+== Lands 
+----
+swamp 22
+----
+
+
+== Enchantment
+----
+lingering death 2
+----
+
+
+== Instant
+----
+terror 2
+----
+
+
+== Sorcery
+----
+drain life 2
+----
+
+
+== Artifact
+----
+----
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**: 2019
+----

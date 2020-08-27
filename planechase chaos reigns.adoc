@@ -1,0 +1,81 @@
+== Deck Name
+planechase chaos reigns.adoc
+
+
+
+== Concept:
+
+== Creatures
+----
+maelstrom wanderer 1
+illusory angel 2
+fusion elemental 1
+shardless agent 2
+engima sphinx 1
+enlisted wurm 1
+guard gomazoa 1
+ondu giant 1
+brutalizer exarch 1
+whirlpool warrarior 1
+kathari remnant 1
+peregrine drake 1 
+noggle ransacker 1
+etherium-horn sorcerer 1
+primal plasma 1
+bloodbraid elf 2
+----
+
+
+== Lands 
+----
+terramorphic expanse 1
+shimmering grotto 2
+rupture spire 2
+vivid creek 1
+exotic orchard 1 
+island 5
+mountain 4
+swamp 2
+plain 2
+forest 4
+----
+
+
+== Enchantment
+----
+sunken hope 1
+----
+
+
+== Instant
+----
+bituminous blast 1
+fiery fall 2
+beast within 1
+----
+
+
+== Sorcery
+----
+rivals duel 1
+cultivate 1
+erratic explosion 1
+arc trail 1
+see beyond 2
+mass mutiny 1
+last stand 1
+deny reality 1
+----
+
+
+== Artifact
+----
+fractured powerstone 1 
+armillary sphere 2
+----
+
+
+----
+**deck builder**: pre build
+**late updated**:
+----

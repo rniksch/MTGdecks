@@ -1,0 +1,62 @@
+== Deck Name
+green white destroy deck
+
+
+
+== Concept:
+
+== Creatures
+----
+terravore 4
+wood elves 4
+copper myr 1
+gold myr 4
+llanowar elves 2
+avenging angel 2
+thorscape familiar 4
+----
+
+
+== Lands 
+----
+forest 11
+plains 11
+----
+
+
+== Enchantment
+----
+----
+
+
+== Instant
+----
+----
+
+
+== Sorcery
+----
+wrath of god 2
+armagedon 4
+cataclysm 2
+march of souls 2
+catastrophe 2
+gaeas blessing 3
+----
+
+
+== Artifact
+----
+feldons cane 2
+----
+
+
+
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**Revised by** Eugene ' Acid Cold'
+**late updated**: 2008
+**First Created** 2005
+----

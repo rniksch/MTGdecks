@@ -1,0 +1,78 @@
+== Deck Name
+planechase night of the ninja
+
+
+
+== Concept:
+
+== Creatures
+----ink-eyes servant of the oni 1
+skullsnatcher 1
+dimir infiltrator 2
+augury owl 2
+silent-blade oni 1
+mistblade shinobi 1
+higure the still wind 1
+okiba-gang shinobi 1
+ninja of the deep hours 2
+inlfathom witch 1
+throat slitter 1
+skashima student 1
+wall of frost 1
+baleful strix 2
+tormented soul 2
+walker of the secret way 1
+dark hatchling 1
+glen elendra liege 1
+cadavar imp 1
+lilianas spectre 1
+vela the night-clad 1
+
+----
+
+
+== Lands 
+----
+swamp 9
+island 9
+dimir aqueduct 2
+jwar isle refuge 2
+tainted isle 1
+terramorphic expanse 1
+
+----
+
+
+== Enchantment
+----
+----
+
+
+== Instant
+----
+cancel 1
+assassinate 2
+
+----
+
+
+== Sorcery
+----
+concentrate 1
+----
+
+
+== Artifact
+----
+sai of the shinobi 2
+whsipersilk cloak 1
+quietus spike 1
+farsight mask 1
+fractured powerstone 1
+----
+
+
+----
+**deck builder**: pre build
+**late updated**:
+----

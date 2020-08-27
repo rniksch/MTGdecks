@@ -1,0 +1,70 @@
+== Deck Name
+Infect and Defile
+
+
+
+== Concept:
+event deck from the mirrodin besieged set
+best pre build deck I have ever owned, won stacks of comps with it. fast hard hitting poison deck
+
+
+== Creatures
+----
+Necropede 4
+Plague Myr 4
+Corpse Cure 4
+Hand of the Praetors 1
+Phyrexian Vatmother 2
+----
+
+
+== Lands 
+----
+Drowned Catacomb 2	
+Island	20	
+Jwar Isle Refuge 4		
+Swamp 7
+----
+
+
+== Enchantment
+----
+Corrupted Conscience 4
+----
+
+
+== Instant
+----
+Smother	2
+Doom Blade 1
+Mana Leak 2
+Deprive	2
+----
+
+== Sorcery
+----
+Foresee 4
+Preordain 3
+Consuming Vapors 2
+----
+
+
+== Artifact
+----
+Contagion Clasp 2
+----
+
+==Side board
+----
+Deathmark 3	 (S)
+doom Blade 1	(I)
+Flashfreeze	3  (I)
+Go for the Throat 2 (I)	
+Negate 4 (I)
+Smother 2 (I)
+----
+
+----
+**deck builder**: pre build 
+**late updated**: 2011
+----

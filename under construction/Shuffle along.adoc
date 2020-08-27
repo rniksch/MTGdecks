@@ -1,0 +1,48 @@
+== Deck Name
+Shuffle along
+
+
+
+== Concept:
+Had a friend who loved to play a battle of wits deck. 
+
+image::https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=288878&type=card[battle of wits]
+
+Card Text:
+At the beginning of your upkeep, if you have 200 or more cards in your library, you win the game.  This started as a way of being a pain in the ass. If you are going to have a massive 300+ card deck, I would like to see you shuffle that beast. So I started working on a deck which would force people to shuffle. That later evolved into could I deal damage as a result of shuffling?
+
+
+== Creatures
+----
+----
+
+
+== Lands 
+----
+----
+
+
+== Enchantment
+----
+----
+
+
+== Instant
+----
+----
+
+
+== Sorcery
+----
+----
+
+
+== Artifact
+----
+----
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**:
+----

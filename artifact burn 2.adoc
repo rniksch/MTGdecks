@@ -1,0 +1,61 @@
+== Deck Name
+artifact burn 2
+
+
+
+
+== Concept:
+
+== Creatures
+----
+atog 4
+megatog 2
+nuisance engine 2
+disciple of the vault 4
+leaden myr 4 
+iron myr 4
+phyrexian walker 2
+razorgrass screen 2
+----
+
+
+== Lands 
+----
+swamp 5
+mountain 6
+great furnace 2
+vault of whispers 4
+darksteel citadel 4
+----
+
+
+== Enchantment
+----
+----
+
+
+== Instant
+----
+----
+
+
+== Sorcery
+----
+fireball 3
+blaze 1
+----
+
+
+== Artifact
+----
+pyrite spell bomb 3
+krark-clan ironworks 4
+chromatic sphere 2
+necrogen spellbomb 4
+----
+
+
+----
+**deck builder**: Ryan 'vapour' Niksch
+**late updated**: pre 2010
+----

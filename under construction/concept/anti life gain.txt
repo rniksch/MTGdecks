@@ -26,5 +26,8 @@ sorcery
 artifact
 ============
 
+https://tappedout.net/mtg-decks/bw-anti-life-gain-2/
+https://hobbylark.com/card-games/cards-that-prevent-lifegain-in-mtg
+
 
 deck builder: Ryan 'vapour' Niksch

@@ -1,0 +1,79 @@
+== Deck Name
+Planchace savage auras
+
+
+
+== Concept:
+
+== Creatures
+----
+auramancer 1
+armored griffin 2
+silhana ledgewalker 1
+dreampod druid 1
+aura gnarlid 2
+kor spirtdancer 2
+lumberknot 2
+thran golem 1
+dowsing shaman 1
+bramble elemental 1
+clecstial ancient 1
+elderwood scion 1
+auratouched mage 1
+krond the dawn-clad 1
+----
+
+
+== Lands 
+----
+graypelt refuge 2
+krosan verge 1
+selesnya sanctuary 2
+terramorphic expanse 1
+vitu-ghazi the city-tree 1
+forest 9
+plains 8
+----
+
+
+== Enchantment
+----
+rancor 1
+hyena umbra 1
+quiet disrepair 1
+felidar umbra 2
+spirit mantle 1
+boar umbra 2
+snake umbra 1
+cage of hands 1
+ghostly prison 1
+predatory urge 1
+mammoth umbra 1
+sigil of the empty throne 1
+indrik umbra 1
+pollenbright wings 1
+----
+
+
+== Instant
+----
+----
+
+
+== Sorcery
+----
+three dreams 1
+
+----
+
+
+== Artifact
+----
+fractured powerstone 1
+----
+
+
+----
+**deck builder**: pre build
+**late updated**:
+----

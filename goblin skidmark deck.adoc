@@ -11,8 +11,8 @@ its a fun fast paced goblin burn deck. but if you get the prefect 6 card opening
 I had it done to me and have managed to get the perfect draw a few times, even in a comp setting.  even if you dont get it often, that one time when you go first and and kill an player in the first turn is so worth the expression on their face.
 
 === 6 cards needed for the skidmark
-image::https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/arcana/254_tallmountain2_csog5qoe85.jpg[mountain]
-image::https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Raging+Goblin[raging goblin]
+image:https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/arcana/254_tallmountain2_csog5qoe85.jpg[mountain]
+image:https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Raging+Goblin[raging goblin]
 image:https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Blazing+Shoal[blazing shoal]
 image:https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Blazing+Shoal[blazing shoal]
 image:https://res.cloudinary.com/csicdn/image/upload/c_pad,fl_lossy,h_300,q_auto,w_300/v1/Images/Products/mtg%20art/Champions%20of%20Kamigawa/full/Myojin%20of%20Infinite%20Rage.jpg[myogin of infinate]

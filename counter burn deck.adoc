@@ -5,6 +5,14 @@ counter burn deck
 == Concept:
 The frustration of having everything countered based on card cost. This deck ruined your day if you were playing weenie decks like goblins or elves.
 
+
+image:https://www.cardkingdom.com/images/magic-the-gathering/coldsnap/counterbalance-26733-thumb.jpg[counterbalance]
+image:https://www.cardkingdom.com/images/magic-the-gathering/champions-of-kamigawa/senseis-divining-top-16238-thumb.jpg[senseis divining]
+image:https://www.cardkingdom.com/images/magic-the-gathering/double-masters/isochron-scepter-76077-thumb.jpg[isochron scepter
+
+
+
+
 == Creatures
 ----
 prodigal sorceror 3

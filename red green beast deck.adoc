@@ -6,6 +6,10 @@ red green beast deck
 == Concept:
 if beasts are not scary on their own the aether charge deals damage as a beast comes into play. 
 
+
+image:https://www.cardkingdom.com/images/magic-the-gathering/onslaught/aether-charge-17219-thumb.jpg[megrim]
+
+
 == Creatures
 ----
 berserk murlodont 4
@@ -20,7 +24,6 @@ kurgadon 4
 shaleskin bruiser 2
 brontotherium 1
 canopy crawler 1 
-explosive vegatation 1
 ----
 
 
@@ -47,6 +50,7 @@ yamabushis flame 3
 
 == Sorcery
 ----
+explosive vegatation 1
 ----
 
 

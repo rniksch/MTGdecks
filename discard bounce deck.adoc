@@ -12,6 +12,10 @@ take pain from discard
 what you can get into play is returned to hand and dicarded
 ----
 
+image:https://www.cardkingdom.com/images/magic-the-gathering/10th-edition/megrim-27-thumb.jpg[megrim]
+image:https://www.cardkingdom.com/images/magic-the-gathering/8th-edition/warped-devotion-7122-thumb.jpg[counterbalance]
+image:https://www.cardkingdom.com/images/magic-the-gathering/10th-edition/underworld-dreams-15377-thumb.jpg[underworld dreams]
+
 
 == Creatures
 ----

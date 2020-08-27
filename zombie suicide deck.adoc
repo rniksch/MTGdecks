@@ -6,6 +6,9 @@ Zombie suicide
 == Concept:
 I love zombies, I love multi player games, found a few cards that hurt me as much as other players. So in test of fate and fairness I build a deck that targeted everyone. This is much a race to death with blind luck seeing who comes out on top. 
 
+image:https://www.cardkingdom.com/images/magic-the-gathering/onslaught/shepherd-of-rot-9900-thumb.jpg[megrim]image:https://www.cardkingdom.com/images/magic-the-gathering/scourge/vengeful-dead-19780-thumb.jpg[megrim]
+
+
 == Creatures
 ----
 stinkweed imp 1
@@ -19,7 +22,7 @@ gravebane zombie 2
 aphetto vulture 1
 maggot carrier 3
 shepherd of the rot 4
-daethmark preate 1
+
 ----
 
 
@@ -38,7 +41,7 @@ grave pact 2
 
 == Instant
 ----
-drak ritual 2
+dark ritual 2
 ----
 
 
@@ -46,6 +49,7 @@ drak ritual 2
 ----
 death cloud 1
 consume spirit 1
+deathmark prelate 1
 ----
 
 

@@ -14,31 +14,50 @@ At the beginning of your upkeep, if you have 200 or more cards in your library, 
 
 == Creatures
 ----
+soldier of fortune 4
+cosi trickster 4
+boggart forager 2
+boldwyr heavyweights 1
+gomazoa 2
 ----
 
 
 == Lands 
 ----
+mountain 10
+island 10
 ----
 
 
 == Enchantment
 ----
+furnace of wrath 2
+psychic surgery 2
 ----
 
 
 == Instant
 ----
+mnemonic nexus 3
+quash 2
 ----
 
 
 == Sorcery
 ----
+bribery 2
+polymorph 2
+mimeopacture 2
 ----
 
 
 == Artifact
 ----
+jesters cap 2
+psychogenic probe 4
+lantern of light 2
+grinning totem 2
+whispersilk cloak 2
 ----
 
 

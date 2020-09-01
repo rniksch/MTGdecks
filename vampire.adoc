@@ -20,7 +20,7 @@ vampire nighthawk 4
 blood seeker 3
 vampire aristocrat 2
 vampire lacerator 3
-pulse tracker 4 (missing 2)
+pulse tracker 4
 ----
 
 

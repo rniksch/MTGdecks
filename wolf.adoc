@@ -17,7 +17,7 @@ tolsimir wolfblood 1
 howling wolf 4
 tel-jilad wolf 4
 canopy spider 2
-wrens run packmaster 2 (more)
+wrens run packmaster 2
 ----
 
 

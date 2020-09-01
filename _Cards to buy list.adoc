@@ -3,46 +3,27 @@ Cards to buy list
 
 
 == Concept:
-This is simply a aggregate list of items needed for various decks
-vampire
-pulse tracker 2 
+
 
 clounter bounce
 sensei's devining top 3
-isochron sceptre 2
-wolf
-wrens run packmaster 2
 
-knight of the holy nimbus 2
+
+
 Deepchannel Mentor
 
-angel 
-blinding angel 1
-platinium angel 1
-worshop 1 
-
-red blue ping
-niv-mizzet 4
-
 stand off
-cop red 1
-disenchant 1
+platinium angel 1
+story circle 2
 idyllic tutor 3
 lashknife barrier 1
+
 
 blighted agent 4 (poison unblock)
 
 Sliver 
-sinew sliver 1 (white common)
-battering sliver 3  (red common)
-talon sliver 3 (white common)
-quilled sliver 1 (white uncommon)
-harmonic sliver 2 (multi uncommon)
-quick sliver 2 (green common)
-fury sliver 2 (red uncommon)
-plated sliver 2 missing 2(white common)
-heart sliver 2 missing 2 (red common)
-might sliver 3 missing 3 (green uncommon)
+fury sliver 1
+elfhame palace 4 missing 4
 
 green regen deck
 mossbridge troll 1

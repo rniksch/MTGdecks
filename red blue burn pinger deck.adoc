@@ -12,7 +12,8 @@ niv-mizzet + ophidian eye - continous ping well as long as your deck lasts
 == Creatures
 ----
 vulshock sorcerer 2
-niv-mizzet the firemind 4 missing 4
+niv-mizzet the firemind 4 
+Niv-Mizzet parun 1
 stuffy doll 3
 gelectrode 4
 prodigal sorcerer 3

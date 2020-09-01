@@ -67,5 +67,5 @@ boros garrison 2
 
 ----
 **deck builder**: Ryan 'vapour' Niksch
-**late updated**:
+**late updated**: 2020 sep
 ----

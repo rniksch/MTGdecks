@@ -6,9 +6,9 @@ Stand off - WIP
 
 == Creatures
 ----
-knight of the holy  nimbus 4 missing 1
+knight of the holy  nimbus 4 
 blazing archon 1
-blinding angel 2 missing 1
+blinding angel 2
 platinium angel 2 missing 1
 vengeful archon 2
 loxodon gatekeeper 1
@@ -25,9 +25,9 @@ plains 21
 
 == Enchantment
 ----
-worship 4 missing 1
+worship 4 
 privileged position 4
-circle of protection red 3 missing 1
+circle of protection red 3
 ivory mask 2
 lashknife barrier 2 missing 1
 story circle 4 missing 2
@@ -36,7 +36,7 @@ story circle 4 missing 2
 
 == Instant
 ----
-disenchant 3 missing 1
+disenchant 3 
 beacon of immortality 1
 ----
 
@@ -56,5 +56,5 @@ gauntlet of power 2
 
 ----
 **deck builder**: Ryan 'vapour' Niksch
-**late updated**:
+**late updated**: 2020 sep
 ----
